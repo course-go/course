@@ -15,11 +15,9 @@ To learn more about the specific content of the course, visit the specific repos
 - [Exercises](https://github.com/course-go/exercises)
 - [Homework](https://github.com/course-go/homework)
 
-## Assesment
+## Thesis
 
-- Attendance
-- Completion of graded homework assignments
-- Final project
+The course was developed under a bachelor's thesis. You can check out [the thesis](https://github.com/stanislav-zeman/course-go-thesis) to learn more about the original design, reasonings and decisions made.
 
 ## Resources
 
