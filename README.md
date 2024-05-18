@@ -20,7 +20,7 @@ The course was developed as a bachelor's thesis. You can check out [the thesis](
 
 ## Schedule
 
-![Schedule outline](./assets/semester-outline-sketch.excalidraw.svg)
+![Schedule outline](assets/schedule.svg)
 
 ## Resources
 
