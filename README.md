@@ -1,14 +1,13 @@
 # Course Go
 
-> [!WARNING]
-> The course is currently a WIP! \
-> None of the things stated here are final.
+The Course Go is a course dedicated to the Go programming language. Apart from teaching its fundamentals, it also covers numerous modern technologies and third-party libraries.
 
-## Schedule
+## Structure
 
-![Schedule outline](./assets/semester-outline-sketch.excalidraw.svg)
-
-## Details
+The content of the course is mostly split-up into three types of materials:
+- Lecture slides that cover all the topics.
+- Exercises that provide hand-on experience to the lectured topics.
+- Homework as a form of independent graded assignments 
 
 To learn more about the specific content of the course, visit the specific repositories:
 - [Lectures](https://github.com/course-go/lectures)
@@ -17,11 +16,15 @@ To learn more about the specific content of the course, visit the specific repos
 
 ## Thesis
 
-The course was developed under a bachelor's thesis. You can check out [the thesis](https://github.com/stanislav-zeman/course-go-thesis) to learn more about the original design, reasonings and decisions made.
+The course was developed as a bachelor's thesis. You can check out [the thesis](https://github.com/stanislav-zeman/course-go-thesis) to learn more about the original design, reasonings, and decisions made.
+
+## Schedule
+
+![Schedule outline](./assets/semester-outline-sketch.excalidraw.svg)
 
 ## Resources
 
-This sections is a summary of guides, books, Go oriented courses or courses that are somehow related to the topics covered by this course and other resources. 
+This sections is a list of guides, books, courses, and other resources that cover Go or somehow otherwise relate to the topics covered by this course. The resources listed here were not used throughout the design of the course, unless otherwise specified. They are just listed here as notable follow-up materials.
 
 ### Official resources
 
