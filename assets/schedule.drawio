@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-18T22:45:06.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="5stUE6AUypgQNvBEIGBw" version="24.4.0" type="device">
+<mxfile host="Electron" modified="2024-05-22T07:22:32.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ZTsc77xeDQqRUvyiFo3x" version="24.4.0" type="device">
   <diagram name="Page-1" id="BFdQ66ABjdLcpmXtD36v">
-    <mxGraphModel dx="999" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3330" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,19 +28,19 @@
         <mxCell id="KnodmlbBTQH3kh3YxPPO-9" value="Concurrency &amp;amp; Parallelism" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="10" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KnodmlbBTQH3kh3YxPPO-10" value="Fundamentals #1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="KnodmlbBTQH3kh3YxPPO-10" value="Go Fundamentals #1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="-130" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KnodmlbBTQH3kh3YxPPO-11" value="Fundamentals #2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="KnodmlbBTQH3kh3YxPPO-11" value="Go Fundamentals #2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="-60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KnodmlbBTQH3kh3YxPPO-12" value="03" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=16;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-66" y="-45" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KnodmlbBTQH3kh3YxPPO-13" value="Advanced #1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="KnodmlbBTQH3kh3YxPPO-13" value="Go Advanced Features #1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="80" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KnodmlbBTQH3kh3YxPPO-14" value="Advanced #2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="KnodmlbBTQH3kh3YxPPO-14" value="Go Advanced Features #2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="190" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KnodmlbBTQH3kh3YxPPO-15" value="04" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=16;fontColor=#333333;" parent="1" vertex="1">
