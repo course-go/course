@@ -18,6 +18,10 @@ To learn more about the specific content of the course, visit the specific repos
 
 The course was developed as a bachelor's thesis. You can check out [the thesis](https://github.com/stanislav-zeman/course-go-thesis) to learn more about the original design, reasonings, and decisions made.
 
+## Practice
+
+The course is currently tutored at the [Faculty of Informatics Masaryk University](https://www.fi.muni.cz) as a part of the [PB173: Domain Specific Development](https://is.muni.cz/predmet/fi/podzim2024/PB173?lang=en) course.
+
 ## Schedule
 
 ![Schedule outline](assets/schedule.svg)
