@@ -29,7 +29,7 @@ more about the original design, reasoning, and decisions made.
 The course is currently tutored at the
 [Faculty of Informatics Masaryk University](https://www.fi.muni.cz)
 as a part of the
-[PB173: Domain Specific Development](https://is.muni.cz/predmet/fi/podzim2024/PB173?lang=en)
+[PB173: Domain Specific Development](https://is.muni.cz/predmet/fi/podzim2026/PB173?lang=en)
 course.
 
 ## Schedule
