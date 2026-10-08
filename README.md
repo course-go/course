@@ -6,10 +6,10 @@ technologies and third-party libraries.
 
 ## Structure
 
-The content of the course is mostly split-up into three types of materials:
+The content of the course is mostly split up into three types of materials:
 
 - Lecture slides that cover all the topics.
-- Exercises that provide hand-on experience to the lectured topics.
+- Exercises that provide hands-on experience with the lectured topics.
 - Homework as a form of independent graded assignments.
 
 To learn more about the specific content of the course, visit the specific repositories:
@@ -29,7 +29,7 @@ more about the original design, reasoning, and decisions made.
 The course is currently tutored at the
 [Faculty of Informatics Masaryk University](https://www.fi.muni.cz)
 as a part of the
-[PB173: Domain Specific Development](https://is.muni.cz/predmet/fi/podzim2024/PB173?lang=en)
+[PB173: Domain Specific Development](https://is.muni.cz/predmet/fi/podzim2026/PB173?lang=en)
 course.
 
 ## Schedule
@@ -38,7 +38,7 @@ course.
 
 ## Resources
 
-This sections is a list of guides, books, courses, and other resources that
+This section is a list of guides, books, courses, and other resources that
 cover Go or somehow otherwise relate to the topics covered by this course.
 The resources listed here were not used throughout the design of the course,
 unless otherwise specified. They are just listed here as notable follow-up materials.
@@ -54,7 +54,7 @@ unless otherwise specified. They are just listed here as notable follow-up mater
 
 ### Courses
 
-- [Redhat Go Course](https://github.com/RedHatOfficial/GoCourse)
+- [Red Hat Go Course](https://github.com/RedHatOfficial/GoCourse)
 - [Learn Go](https://github.com/karanpratapsingh/learn-go)
 - Three Dots Labs
   - [Learn Go in One Evening](https://threedots.tech/go-in-one-evening)
@@ -72,7 +72,7 @@ unless otherwise specified. They are just listed here as notable follow-up mater
   - [Backend Master Class](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/)
   - [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?kw=docker+%26+kuber&src=sac)
   - [GitHub Actions](https://www.udemy.com/course/github-actions-the-complete-guide/)
-- [Corsera](https://www.coursera.org/specializations/google-golang)
+- [Coursera](https://www.coursera.org/specializations/google-golang)
 - [Boot.dev](https://www.boot.dev/tracks/backend)
 
 ### Books
@@ -102,7 +102,7 @@ unless otherwise specified. They are just listed here as notable follow-up mater
 
 - [Bitfield Consulting](https://bitfieldconsulting.com/golang)
 - [Yourbasic - KTH](https://yourbasic.org)
-- [50 Shades of Go](https://golang50shad.es)
+- [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Three Dots Labs](https://threedots.tech)
 
 ### Examples & Exercises
